@@ -32,4 +32,4 @@ Yixuan Liu, Hong Chen, *Yuhan Liu\**, Cuiping Li\
 [[JoS 2022]](https://jos.org.cn/jos/article/pdf/6446)
 1. **State-of-the-Art Privacy Attacks and Defenses on Graphs** (in Chinese)\
 *Yuhan Liu\**, Hong Chen, Yixuan Liu, Dan Zhao, Cuiping Li\
-[[JOC 2022]](http://cjc.ict.ac.cn/online/onlinepaper/002-刘宇涵-H-2022425163952.pdf)
+[[JoC 2022]](http://cjc.ict.ac.cn/online/onlinepaper/002-刘宇涵-H-2022425163952.pdf)
