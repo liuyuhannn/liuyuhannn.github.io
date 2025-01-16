@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+<!-- # About Me -->
 I am currently a Ph.D. candidate in the School of Information at [Renmin University of China (RUC)](https://www.ruc.edu.cn). I am super lucky to be advised by [Prof. Hong Chen](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/418462431bfb4a8280359068cb470e88.htm) in the [Key Laboratory of Data Engineering and Knowledge Engineering (DEKE)](http://deke.ruc.edu.cn) at RUC. After a year of research internship supervised by [Dr. Sheng Wang](https://wangsheng1001.github.io) at Alibaba DAMO Academy, I was extremely fortunate to be a visiting student studying under the supervision of [Prof. Yves-Alexandre de Montjoye](http://www.demontjoye.com) in the [Computational Privacy Group (CPG)](https://cpg.doc.ic.ac.uk) at Imperial College London. Before that, I spent four splendid years at Xiamen University (XMU) as an undergraduate.
 
 My primary reserach interests span differential privacy theorey and its applications, private data sharing, and trustworthy AI tecnhiques.
