@@ -1,4 +1,5 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url	slides_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf	http://academicpages.github.io/files/slides1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf	http://academicpages.github.io/files/slides2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf	http://academicpages.github.io/files/slides3.pdf
+2021-10-21	Privacy-preserving techniques in federated learning	JoS	Yixuan Liu, Hong Chen, Yuhan Liu, Cuiping Li			
+2022-04-01	State-of-the-Art Privacy Attacks and Defenses on Graphs					http://cjc.ict.ac.cn/online/onlinepaper/002-刘宇涵-H-2022425163952.pdf	
+2022-05-09	Collecting triangle counts with edge relationship local differential privacy					https://ieeexplore.ieee.org/abstract/document/9835478	
+2023-06-26	Echo of neighbors: Privacy amplification for personalized private federated learning with shuffle model						
