@@ -25,11 +25,11 @@ author:
   avatar           : "profile_avatar.JPG"
   name             : "Yuhan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student from the School of Information, Renmin University of China"
-  location         : "Beijing, China"
-  employer         : "Renmin University of China"
+  bio              : "Postdoc researcher"
+  location         : "Waterloo, ON, Canada"
+  employer         : "University of Waterloo"
   uri              : # URL
-  email            : "liuyh2019@ru.edu.cn" 
+  email            : "yuhan.liu@uwaterloo.ca" 
 
   # Academic websites
   arxiv            : #"https://arxiv.org/user/"
